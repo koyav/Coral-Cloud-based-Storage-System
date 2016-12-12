@@ -1,0 +1,197 @@
+192.168.1.95,2000,connected to Main server
+192.168.1.95,2001,connected to Main server
+192.168.1.95,59320,upload
+192.168.1.95,2000,04547426.pdf1.split->sent
+192.168.1.95,2001,04547426.pdf1.split->sent
+192.168.1.95,2000,04547426.pdf2.split->sent
+192.168.1.95,2001,04547426.pdf2.split->sent
+192.168.1.95,2000,04547426.pdf3.split->sent
+192.168.1.95,2001,04547426.pdf3.split->sent
+192.168.1.95,2000,04547426.pdf4.split->sent
+192.168.1.95,2001,04547426.pdf4.split->sent
+192.168.1.95,2000,connected to Main server
+192.168.1.95,2001,connected to Main server
+192.168.1.95,60563,upload
+192.168.1.95,2000,07089277.pdf1.split->sent
+192.168.1.95,2001,07089277.pdf1.split->sent
+192.168.1.95,2000,07089277.pdf2.split->sent
+192.168.1.95,2001,07089277.pdf2.split->sent
+192.168.1.95,2000,07089277.pdf3.split->sent
+192.168.1.95,2001,07089277.pdf3.split->sent
+192.168.1.95,2000,07089277.pdf4.split->sent
+192.168.1.95,2001,07089277.pdf4.split->sent
+192.168.204.1,2000,connected to Main server
+192.168.204.1,8080,upload
+192.168.1.95,2000,Capture.JPG1.split->sent
+192.168.1.95,2001,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.1.95,2000,Capture.JPG2.split->sent
+192.168.1.95,2001,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2000,connected to Main server
+192.168.204.1,2000,connected to Main server
+192.168.204.1,8080,upload
+192.168.1.95,2000,Capture.JPG1.split->sent
+192.168.1.95,2001,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.1.95,2000,Capture.JPG2.split->sent
+192.168.1.95,2001,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.1.95,2000,Capture.JPG3.split->sent
+192.168.1.95,2001,Capture.JPG3.split->sent
+192.168.204.1,2000,Capture.JPG3.split->sent
+192.168.204.1,2000,Capture.JPG3.split->sent
+192.168.204.1,2000,Capture.JPG3.split->sent
+192.168.1.95,2000,Capture.JPG4.split->sent
+192.168.1.95,2001,Capture.JPG4.split->sent
+192.168.204.1,2000,Capture.JPG4.split->sent
+192.168.204.1,2000,Capture.JPG4.split->sent
+192.168.204.1,2000,Capture.JPG4.split->sent
+192.168.204.1,2001,connected to Main server
+192.168.204.1,2001,connected to Main server
+192.168.204.1,2000,connected to Main server
+192.168.204.1,2001,connected to Main server
+192.168.204.1,8080,upload
+192.168.1.95,2000,Capture.JPG1.split->sent
+192.168.1.95,2001,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2001,Capture.JPG1.split->sent
+192.168.204.1,2001,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2001,Capture.JPG1.split->sent
+192.168.1.95,2000,Capture.JPG2.split->sent
+192.168.1.95,2001,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2001,Capture.JPG2.split->sent
+192.168.204.1,2001,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2001,Capture.JPG2.split->sent
+192.168.1.95,2000,Capture.JPG3.split->sent
+192.168.1.95,2001,Capture.JPG3.split->sent
+192.168.204.1,2000,Capture.JPG3.split->sent
+192.168.204.1,2000,Capture.JPG3.split->sent
+192.168.204.1,2000,Capture.JPG3.split->sent
+192.168.204.1,2001,Capture.JPG3.split->sent
+192.168.204.1,2001,Capture.JPG3.split->sent
+192.168.204.1,2000,Capture.JPG3.split->sent
+192.168.204.1,2001,Capture.JPG3.split->sent
+192.168.1.95,2000,Capture.JPG4.split->sent
+192.168.1.95,2001,Capture.JPG4.split->sent
+192.168.204.1,2000,Capture.JPG4.split->sent
+192.168.204.1,2000,Capture.JPG4.split->sent
+192.168.204.1,2000,Capture.JPG4.split->sent
+192.168.204.1,2001,Capture.JPG4.split->sent
+192.168.204.1,2001,Capture.JPG4.split->sent
+192.168.204.1,2000,Capture.JPG4.split->sent
+192.168.204.1,2001,Capture.JPG4.split->sent
+192.168.1.95,2000,Capture.JPG5.split->sent
+192.168.1.95,2000,Capture.JPG1.split->sent
+192.168.1.95,2001,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2001,Capture.JPG1.split->sent
+192.168.204.1,2001,Capture.JPG1.split->sent
+192.168.204.1,2000,Capture.JPG1.split->sent
+192.168.204.1,2001,Capture.JPG1.split->sent
+192.168.1.95,2000,Capture.JPG2.split->sent
+192.168.1.95,2001,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2001,Capture.JPG2.split->sent
+192.168.204.1,2001,Capture.JPG2.split->sent
+192.168.204.1,2000,Capture.JPG2.split->sent
+192.168.204.1,2001,Capture.JPG2.split->sent
+192.168.204.1,2000,connected to Main server
+192.168.1.95,2001,coral.pptx1.split->sent
+192.168.204.1,2000,coral.pptx1.split->sent
+192.168.204.1,2000,coral.pptx1.split->sent
+192.168.204.1,2000,coral.pptx1.split->sent
+192.168.204.1,2001,coral.pptx1.split->sent
+192.168.204.1,2001,coral.pptx1.split->sent
+192.168.204.1,2000,coral.pptx1.split->sent
+192.168.204.1,2001,coral.pptx1.split->sent
+192.168.204.1,2000,coral.pptx1.split->sent
+192.168.1.95,2000,coral.pptx2.split->sent
+192.168.1.95,2001,coral.pptx2.split->sent
+192.168.204.1,2000,coral.pptx2.split->sent
+192.168.204.1,2000,coral.pptx2.split->sent
+192.168.204.1,2000,coral.pptx2.split->sent
+192.168.204.1,2001,coral.pptx2.split->sent
+192.168.204.1,2001,coral.pptx2.split->sent
+192.168.204.1,2000,coral.pptx2.split->sent
+192.168.204.1,2001,coral.pptx2.split->sent
+192.168.204.1,2000,coral.pptx2.split->sent
+192.168.204.1,2000,connected to Main server
+192.168.204.1,2001,connected to Main server
+192.168.204.1,8080,upload
+192.168.1.95,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.1.95,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.1.95,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.1.95,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.204.1,2001,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg2.split->sent
+192.168.1.95,2000,protection-of-identity-information-in-cloud-computing-without-ttp-56-638.jpg1.split->sent
+192.168.204.1,2000,connected to Main server
+192.168.204.1,2001,connected to Main server
+192.168.204.1,8080,upload
+192.168.1.95,2000,StudentUniverse.pdf1.split->sent
+192.168.1.95,2001,StudentUniverse.pdf1.split->sent
+192.168.204.1,2000,StudentUniverse.pdf1.split->sent
+192.168.204.1,2000,StudentUniverse.pdf1.split->sent
+192.168.204.1,2000,StudentUniverse.pdf1.split->sent
+192.168.204.1,2001,StudentUniverse.pdf1.split->sent
+192.168.204.1,2001,StudentUniverse.pdf1.split->sent
+192.168.204.1,2000,StudentUniverse.pdf1.split->sent
+192.168.204.1,2001,StudentUniverse.pdf1.split->sent
+192.168.204.1,2000,StudentUniverse.pdf1.split->sent
+192.168.204.1,2000,StudentUniverse.pdf1.split->sent
+192.168.204.1,2001,StudentUniverse.pdf1.split->sent
+192.168.204.1,2000,StudentUniverse.pdf1.split->sent
+192.168.204.1,2001,StudentUniverse.pdf1.split->sent
+192.168.1.95,2000,StudentUniverse.pdf2.split->sent
+192.168.1.95,2001,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,StudentUniverse.pdf2.split->sent
+192.168.204.1,2001,StudentUniverse.pdf2.split->sent
+192.168.204.1,2001,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,StudentUniverse.pdf2.split->sent
+192.168.204.1,2001,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,StudentUniverse.pdf2.split->sent
+192.168.204.1,2001,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,StudentUniverse.pdf2.split->sent
+192.168.204.1,2001,StudentUniverse.pdf2.split->sent
+192.168.204.1,2000,connected to Main server
+192.168.204.1,2001,connected to Main server
+192.168.204.1,2001,connected to Main server
+192.168.204.1,2000,connected to Main server
+192.168.204.1,2001,connected to Main server
